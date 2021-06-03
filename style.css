@@ -1,4 +1,4 @@
- 
+
  *{
     box-sizing: border-box;
 }
@@ -7,7 +7,7 @@ body{
 }
 #head {
     
-   left:200px;
+   left:280px;
     position: absolute;
    top: 0px;
 
@@ -18,8 +18,7 @@ h2{
     font-family: 'Pattaya', sans-serif;
     font-size: 40px;
     margin-left: 50px;
-   top: 0px;
-
+top: 0px;
 }
 h4{
 
@@ -28,11 +27,9 @@ font-size: 10px;
 margin-left: 50px;
 margin-top: 0;
 }
-
-
 nav{
 
-  right: 200px;
+  right: 280px;
     position: absolute;
    top: 0px;
 
@@ -52,16 +49,16 @@ h1{
     font-size: 60px;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     margin-top: 50px;
-    margin-left: 180px;
+    margin-left: 250px;
 }
 h5{
     font-size: 15px;
     color:rgb(138, 141, 140);
-    margin-left: 180px;
+    margin-left: 250px;
 }
 #print{
 
-    right: 200px;
+    right: 280px;
     position: absolute;
    display: inline-block;
    top:150px;
@@ -103,10 +100,14 @@ article{
     
 }
 #C{
-    left:150px;
+    left:350px;
     position: absolute;
 top: 1250px;
 
+}
+.pic4{
+    left:260px;
+    position: absolute; 
 }
 button{
     float: right;
@@ -136,7 +137,7 @@ button{
         top:1px;
         border: 0;
         color: #d7d7d7;
-       margin-top: 70px;
+       margin-top:100px;
         
     }
    
